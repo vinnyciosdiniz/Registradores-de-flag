@@ -52,3 +52,6 @@ ADD AL, BL (82 = 10000010 negativo)<br/>
 <br/>
 
 [Exemplo de operações com registradores parte 2](https://www.youtube.com/watch?v=L5-YG6MYs5w&t=1967s)
+
+<br/>
+[Exemplo de operações com registradores parte 2](https://www.geeksforgeeks.org/flag-register-8086-microprocessor/)
