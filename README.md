@@ -39,9 +39,9 @@ Das flags citadas acima, 6 são de estado: <br/>
 
 <br/>
 
-MOV AL, 50 (50 is 01010000 positivo)<br/>
-MOV BL, 32 (32 is 00110010 positivo)<br/>
-ADD AL, BL (82 is 10000010 negativo)<br/>
+MOV AL, 50 (50 = 01010000 positivo)<br/>
+MOV BL, 32 (32 = 00110010 positivo)<br/>
+ADD AL, BL (82 = 10000010 negativo)<br/>
 
 <br/>
 
