@@ -20,6 +20,9 @@ IF = Interrupt Enable Flag <br/>
 DF = Direction <br/>
 OF = OverFlow <br/>
 
+![Flags de estado](Festado.png "Flags de estado")
+
+
 <h3>Representação das flags:</h3>
 
 <br/>
