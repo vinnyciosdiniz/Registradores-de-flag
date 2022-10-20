@@ -19,7 +19,7 @@ TF = Trap <br/>
 IF = Interrupt Enable Flag <br/>
 DF = Direction <br/>
 OF = OverFlow <br/>
-
+Das flags citadas acima, 6 são de estado: <br/>
 ![Flags de estado](Festado.png "Flags de estado")
 
 
