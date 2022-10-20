@@ -7,6 +7,19 @@
 
 <br/>
 
+Flags
+Flags são registradores onde cada bit significa um estado do processador.
+São eles:
+C = Carry 
+P = Parity 
+A = Auxiliar Carry 
+Z = Zero 
+S = Signal 
+T = Trap 
+I = Interrupt Enable Flag 
+D = Direction 
+O = OverFlow 
+
 <h3>Representação das flags:</h3>
 
 <br/>
