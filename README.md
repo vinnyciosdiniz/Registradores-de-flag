@@ -1,7 +1,7 @@
 # Registradores-de-flag
 
 ![Atividade](atividade.jfif)
-
+&nbsp;
 ![Simbologia](simbologia das flags.png)
 
 [Exemplo de operações com registradores parte 1](https://www.youtube.com/watch?v=CfVj3Iip4q4)
