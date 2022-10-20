@@ -39,6 +39,12 @@ Das flags citadas acima, 6 são de estado: <br/>
 
 <br/>
 
+MOV AL, 50 (50 is 01010000 positivo)
+MOV BL, 32 (32 is 00110010 positivo)
+ADD AL, BL (82 is 10000010 negativo)
+
+<br/>
+
 <h3>Referências</h3>
 
 [Exemplo de operações com registradores parte 1](https://www.youtube.com/watch?v=CfVj3Iip4q4)
