@@ -8,8 +8,8 @@
 <br/>
 
 <h3>Flags </h3>
-Flags são registradores onde cada bit significa um estado do processador.<br/>
-São eles:<br/>
+Flags são registradores onde cada bit significa um estado do processador. São eles:<br/>
+
 C = Carry <br/>
 P = Parity <br/>
 A = Auxiliar Carry <br/>
