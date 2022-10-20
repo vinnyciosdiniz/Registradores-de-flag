@@ -2,7 +2,7 @@
 
 ![Atividade](atividade.jfif)
 
-![Simbologia das flags](simbologia das flags.png)
+![Simbologia](simbologia das flags.png)
 
 [Exemplo de operações com registradores parte 1](https://www.youtube.com/watch?v=CfVj3Iip4q4)
 &nbsp;
